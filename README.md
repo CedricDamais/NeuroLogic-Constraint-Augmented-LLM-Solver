@@ -8,7 +8,7 @@
 
 > **🏆 Advanced AI Research Project**: Hybrid Wordle solver combining Constraint Satisfaction Programming (CSP) with Large Language Models (LLM) for intelligent word game solving.
 
-**⭐ Live Demo**: *[Add your deployed link here]*  
+**⭐ Live Demo**: *[Link](https://drive.google.com/file/d/1HqMilcXy7FbhPCTxS0eadxN8InnYJi0H/view?usp=sharing)*  
 **🎓 Academic Institution**: EPITA (École Pour l'Informatique et les Techniques Avancées)  
 **👥 Team**: 4 Computer Science Students  
 
@@ -23,16 +23,6 @@ This project showcases **cutting-edge AI techniques** by combining:
 - **🎯 Strategic Game Theory** (Optimal word selection)
 
 **Key Innovation**: Unlike traditional solvers, our hybrid approach uses LLM reasoning to make human-like strategic decisions while CSP ensures mathematical optimality.
-
-## 🎮 **Interactive Demo**
-
-![Wordle Solver Demo](https://via.placeholder.com/800x400/4285f4/ffffff?text=🎮+Interactive+Wordle+Solver+Demo)
-
-### **Try It Yourself**
-1. **New Game** → Generates random target word
-2. **Solve with CSP** → Watch pure algorithmic approach
-3. **Solve with CSP+LLM** → See AI reasoning in action
-4. **Next Move** → Step through solution process
 
 ---
 
